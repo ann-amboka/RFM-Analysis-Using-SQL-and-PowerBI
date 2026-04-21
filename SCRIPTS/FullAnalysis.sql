@@ -182,3 +182,67 @@ ON t.customer_id = r.customer_id
 WHERE t.order_status = 'Completed'
 GROUP BY  t.purchase_channel
 ORDER BY total_revenue DESC;
+
+--=========================================================================---
+-----------------Discount Sensitivity by Segment-------------------------------
+SELECT
+    r.segment,
+    CASE 
+        WHEN t.discount_pct = 0          THEN 'No Discount'
+        WHEN t.discount_pct BETWEEN 1 
+             AND 15                      THEN 'Low (1-15%)'
+        WHEN t.discount_pct BETWEEN 16 
+             AND 30                      THEN 'Medium (16-30%)'
+        ELSE                                  'High (31%+)'
+    END AS discount_tier,
+    COUNT(t.transaction_id) AS total_orders,
+    ROUND(SUM(t.total_amount_usd), 2) AS total_revenue,
+    ROUND(AVG(t.gross_margin_pct), 1) AS avg_margin_pct
+FROM Transactions t
+LEFT JOIN vw_RFM r 
+ON t.customer_id = r.customer_id
+WHERE t.order_status = 'Completed'
+GROUP BY r.segment,
+    CASE 
+        WHEN t.discount_pct = 0          THEN 'No Discount'
+        WHEN t.discount_pct BETWEEN 1 
+             AND 15                      THEN 'Low (1-15%)'
+        WHEN t.discount_pct BETWEEN 16 
+             AND 30                      THEN 'Medium (16-30%)'
+        ELSE                                  'High (31%+)'
+    END
+ORDER BY r.segment, total_revenue DESC;
+
+--===============================================================================----
+--------------------Customer Satisfaction by Segment----------------------------------
+SELECT
+    r.segment,
+    COUNT(t.transaction_id) AS total_orders,
+    ROUND(AVG(CAST(t.customer_satisfaction_score 
+                   AS FLOAT)), 2) AS avg_satisfaction,
+    SUM(CASE WHEN t.customer_satisfaction_score = 5 
+             THEN 1 ELSE 0 END) AS promoters,
+    SUM(CASE WHEN t.customer_satisfaction_score 
+             BETWEEN 3 AND 4 THEN 1 ELSE 0 END) AS passives,
+    SUM(CASE WHEN t.customer_satisfaction_score 
+             BETWEEN 1 AND 2 THEN 1 ELSE 0 END)AS detractors
+FROM Transactions t
+LEFT JOIN vw_RFM  r 
+ON t.customer_id = r.customer_id
+WHERE t.customer_satisfaction_score IS NOT NULL
+GROUP BY r.segment
+ORDER BY avg_satisfaction DESC;
+
+--=================================================================================--
+------------------Loyalty Tier vs RFM Segment Crosswalk----------------------
+SELECT
+    c.loyalty_tier,
+    r.segment,
+    COUNT(r.customer_id)                AS total_customers,
+    ROUND(AVG(r.Monetary), 2)           AS avg_monetary,
+    ROUND(AVG(r.Frequency), 2)          AS avg_frequency
+FROM vw_RFM r
+LEFT JOIN Customers c 
+ON r.customer_id = c.customer_id
+GROUP BY c.loyalty_tier, r.segment
+ORDER BY c.loyalty_tier,r.segment DESC;
