@@ -30,7 +30,7 @@ The analysis is built on a star schema comprising one fact table and three dimen
     • dim_productsdim_products
     • 500 products | 20 columns
     • Category, subcategory, brand, pricing, margins, stock levels, ratings, and supplier details
-    ![image](https://user-images.githubusercontent.com/xxxxxx/xxxxxx.png)
+ ![image alt]()
 
 
 
@@ -124,7 +124,7 @@ Recommended actions:
     • Implement personalised retention strategies that address relevance and value rather than defaulting to discounts
     • Monitor satisfaction scores across segments as a leading indicator of churn risk, not just a lagging satisfaction metric
 
-        ![image](https://user-images.githubusercontent.com/xxxxxx/xxxxxx.png)
+        ![image alt]()
 
 
 
