@@ -2,9 +2,11 @@ RFM CUSTOMER SEGMENTATION ANALYSIS
 Understanding Customer Behaviour, Value Contribution & Engagement Patterns
 
 Analysis Period: January 2022 – December 2024
+
 Dataset: 112,000 Transactions  |  5,000 Customers  |  500 Products  |  120 Campaigns
 
 1. Project Background
+
 This project focuses on Customer Segmentation Analysis to understand behaviour, value contribution, and engagement patterns, and to assess how these factors affect overall business performance. Using the RFM (Recency, Frequency, Monetary) framework, customers were scored and grouped into distinct segments, enabling data-driven identification of high-value customers, at-risk accounts, and re-engagement opportunities.
 The analysis spans three years of transactional data and integrates customer demographics, campaign performance, product performance, and payment behaviour to build a comprehensive view of the customer base.
 
