@@ -53,6 +53,7 @@ Sustaining and accelerating this growth will require continued focus on retainin
 The Champions segment demonstrates the highest frequency and monetary value across all customer groups, confirming their status as the primary revenue engine of the business. Champions transact more often and spend more per transaction, making them disproportionately important to overall performance.
 Protecting and nurturing this segment through exclusive experiences, early access, and personalized engagement should be a standing business priority.
 
+![image alt]()
 
 4.2  Acquisition Channel Analysis
 
@@ -63,6 +64,8 @@ Recommended actions:
     • Tighten keyword targeting and audience segmentation on paid social placements
     • Ensure ad creative and landing page messaging are fully aligned, same offer, same tone, consistent experience
 
+    
+![image alt]()
 
 4.3  Campaign Type Performance
 
@@ -85,6 +88,8 @@ The business currently operates across 8 distinct campaign objectives, which cre
     • Customer Retention, Win-Back
 
 This consolidation improves strategic clarity, simplifies reporting, and makes it easier to allocate budget against outcomes rather than activities.
+
+![image alt]()
 
 4.5  Product Performance by Customer Segment
 
