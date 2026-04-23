@@ -89,7 +89,7 @@ The business currently operates across 8 distinct campaign objectives, which cre
 
 This consolidation improves strategic clarity, simplifies reporting, and makes it easier to allocate budget against outcomes rather than activities.
 
-![image alt]()
+![image alt](https://github.com/ann-amboka/RFM-Analysis-Using-SQL-and-PowerBI/blob/fd0e7c92cf66c43f41feeb3f708f5b83f90d005d/campaign%20objectives.png)
 
 4.5  Product Performance by Customer Segment
 
@@ -129,8 +129,6 @@ Recommended actions:
     • Conduct targeted feedback surveys and behavioural analysis on the At Risk segment to identify specific disengagement triggers
     • Implement personalised retention strategies that address relevance and value rather than defaulting to discounts
     • Monitor satisfaction scores across segments as a leading indicator of churn risk, not just a lagging satisfaction metric
-
-        ![image alt](https://github.com/ann-amboka/RFM-Analysis-Using-SQL-and-PowerBI/blob/9bb9345587250054501aa39efae4c399e5821e83/overall%20satisfaction%20score.png)
 
 
 
