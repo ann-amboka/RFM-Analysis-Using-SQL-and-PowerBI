@@ -130,7 +130,7 @@ Recommended actions:
     • Implement personalised retention strategies that address relevance and value rather than defaulting to discounts
     • Monitor satisfaction scores across segments as a leading indicator of churn risk, not just a lagging satisfaction metric
 
-
+![image alt](https://github.com/ann-amboka/RFM-Analysis-Using-SQL-and-PowerBI/blob/22a29bd6a6329156b2cfd9d4cd4b84edb6e7fb39/overall%20satisfaction%20score.png)
 
 5. Recommendations
 
