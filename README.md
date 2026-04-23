@@ -9,6 +9,7 @@ Dataset: 112,000 Transactions  |  5,000 Customers  |  500 Products  |  120 Campa
 
 This project focuses on Customer Segmentation Analysis to understand behaviour, value contribution, and engagement patterns, and to assess how these factors affect overall business performance. Using the RFM (Recency, Frequency, Monetary) framework, customers were scored and grouped into distinct segments, enabling data-driven identification of high-value customers, at-risk accounts, and re-engagement opportunities.
 The analysis spans three years of transactional data and integrates customer demographics, campaign performance, product performance, and payment behaviour to build a comprehensive view of the customer base.
+![image alt]()
 
 2. Data Structure
 
@@ -30,7 +31,7 @@ The analysis is built on a star schema comprising one fact table and three dimen
     • dim_productsdim_products
     • 500 products | 20 columns
     • Category, subcategory, brand, pricing, margins, stock levels, ratings, and supplier details
- ![image alt]()
+ ![image alt](https://github.com/ann-amboka/RFM-Analysis-Using-SQL-and-PowerBI/blob/46cc52165db095a8329370d234dfbe3b56ecc078/Data%20structures.png)
 
 
 
