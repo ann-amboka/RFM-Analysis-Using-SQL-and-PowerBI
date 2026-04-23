@@ -5,10 +5,11 @@ Analysis Period: January 2022 – December 2024
 Dataset: 112,000 Transactions  |  5,000 Customers  |  500 Products  |  120 Campaigns
 
 1. Project Background
-This project is focused on Customer Segmentation Analysis to understand behaviour, value contribution, and engagement patterns, and how these factors affect overall business performance. Using the RFM (Recency, Frequency, Monetary) framework, customers were scored and grouped into distinct segments, enabling data-driven identification of high-value customers, at-risk accounts, and re-engagement opportunities.
+This project focuses on Customer Segmentation Analysis to understand behaviour, value contribution, and engagement patterns, and to assess how these factors affect overall business performance. Using the RFM (Recency, Frequency, Monetary) framework, customers were scored and grouped into distinct segments, enabling data-driven identification of high-value customers, at-risk accounts, and re-engagement opportunities.
 The analysis spans three years of transactional data and integrates customer demographics, campaign performance, product performance, and payment behaviour to build a comprehensive view of the customer base.
 
 2. Data Structure
+
 The analysis is built on a star schema comprising one fact table and three dimension tables:
 
     • fact_transactions  fact_transactions
@@ -31,7 +32,8 @@ The analysis is built on a star schema comprising one fact table and three dimen
 
 
 3. Executive Summary
-Q4 2024 closed at $3,810,404, reflecting a 1% year-on-year growth over Q4 2023’s $3,773,289. While modest, this uptick is a positive signal — it marks a gradual recovery from a softer 2023 period and confirms that revenue momentum is moving in the right direction heading into 2025.
+
+Q4 2024 closed at $3,810,404, reflecting a 1% year-on-year growth over Q4 2023’s $3,773,289. While modest, this uptick is a positive signal; it marks a gradual recovery from a softer 2023 and confirms that revenue momentum is heading in the right direction into 2025.
 More broadly, performance across the three years shows steady overall growth, indicating a stable and resilient revenue trajectory rather than volatile swings. This consistency
 suggests the business has maintained underlying demand strength, even as short-term fluctuations occurred within specific quarters.
 Sustaining and accelerating this growth will require continued focus on retaining high-value customer segments and optimizing campaign spend toward the channels and audiences that generate the strongest returns.
@@ -39,11 +41,15 @@ Sustaining and accelerating this growth will require continued focus on retainin
 
 
 4. Insights Deep Dive
+
 4.1  Segment Revenue & Value Distribution
+
 The Champions segment demonstrates the highest frequency and monetary value across all customer groups, confirming their status as the primary revenue engine of the business. Champions transact more often and spend more per transaction, making them disproportionately important to overall performance.
 Protecting and nurturing this segment through exclusive experiences, early access, and personalized engagement should be a standing business priority.
 
+
 4.2  Acquisition Channel Analysis
+
 Social Media was the leading acquisition channel across all customer segments, generating the highest revenue overall. However, it also accounts for the largest share of At Risk customers, suggesting that while the channel attracts volume, it may not consistently attract high-intent buyers.
 Recommended actions:
     • Review and refresh content strategy with a focus on purchase intent and clearer calls to action
@@ -52,6 +58,7 @@ Recommended actions:
 
 
 4.3  Campaign Type Performance
+
 A total of 8 campaign types were executed across the analysis period. Six campaigns delivered strong performance metrics. Two campaigns, Influencer and Retargeting, recorded comparatively lower numbers but should not be discontinued.
 Recommended actions:
     • Retain both underperforming campaign types, but invest in optimization before the next cycle
@@ -59,6 +66,7 @@ Recommended actions:
     • For Retargeting: shift from broad promotions to segmented messaging with specific value propositions tailored to where the customer dropped off
 
 4.4  Campaign Objectives
+
 The business currently operates across 8 distinct campaign objectives, which creates tracking complexity and makes it difficult to measure strategic progress coherently. Consolidating these into three broader objective categories is recommended:
     • Revenue Objectives  Revenue Objectives  
     • Upsell/Cross-sell, Seasonal Promotion, Product Launch
@@ -70,15 +78,18 @@ The business currently operates across 8 distinct campaign objectives, which cre
 This consolidation improves strategic clarity, simplifies reporting, and makes it easier to allocate budget against outcomes rather than activities.
 
 4.5  Product Performance by Customer Segment
+
 High-value segments: Champions, Loyal Customers, and Potential Loyalists, show a strong preference for Fashion products, which also generate the highest total revenue across the customer base. Food & Beverage, while lower in overall revenue volume, records the highest Average Order Value (AOV), making it a strong margin contributor.
 Fashion is the revenue engine. Food & Beverage is the margin optimiser.
 The Baby & Kids category recorded the lowest performance across segments, but this represents an untapped opportunity. The segment is under-penetrated, not necessarily unviable, and responds well to targeted reactivation strategies such as lifecycle-triggered communications and bundle offers.
 
 4.6  Payment Method Behaviour
+
 Customers show a clear preference for digital payment methods and card options, which consistently record the highest transaction volumes. Cash on Delivery ranks last across all segments.
 Rather than eliminating the cash option, which could alienate a segment of the customer base, the opportunity is to gradually build trust and incentivise migration toward digital payment methods. Digital transactions reduce friction, lower operational costs, and improve data capture for future personalisation.
 
 4.7  Purchase Channel by Segment
+
 The Mobile App is the top purchase channel across all customer segments, reflecting the mobile-first behaviour of the customer base. Website and WhatsApp Shop follow as secondary channels.
 Recommended actions:
     • Use brand awareness and retargeting campaigns specifically to drive Mobile App downloads and repeat usage
@@ -86,6 +97,7 @@ Recommended actions:
     • Gradually integrate WhatsApp into both the app and website as a customer support and engagement layer. It is a trusted, low-friction communication channel in the target markets
 
 4.8  Discount Sensitivity Analysis
+
 A significant finding across all customer segments is that customers do not rely heavily on discounts to make purchasing decisions. Strong purchasing behaviour is observed at zero or low discount levels across all categories, which is a healthy signal for margin sustainability.
 Recommended actions:
     • Limit or eliminate discount strategies for Champions, Loyal Customers, and Potential Loyalists; they do not need the incentive and discounting erodes margin unnecessarily
@@ -93,6 +105,7 @@ Recommended actions:
     • Introduce value-based incentives (loyalty points, exclusive access) for high-value segments instead of price reductions
 
 4.9  Customer Satisfaction by Segment
+
 Overall satisfaction is high across all customer segments, with strong Promoter scores observed in upper-tier segments. This is an encouraging signal and suggests the product and service experience is broadly meeting customer expectations.
 The notable exception is the At Risk segment, which shows lower order volumes and signs of disengagement. Critically, this pattern does not appear to be driven primarily by dissatisfaction; satisfaction scores remain relatively stable even in this group. The likely drivers are product relevance gaps, pricing perception, and declining engagement rather than a poor experience.
 Recommended actions:
@@ -103,6 +116,7 @@ Recommended actions:
 
 
 5. Recommendations
+
 The following priority actions are recommended based on the analysis findings:
 
 Protect & Grow High-Value Segments
