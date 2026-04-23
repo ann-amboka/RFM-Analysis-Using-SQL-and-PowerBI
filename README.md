@@ -42,7 +42,7 @@ suggests the business has maintained underlying demand strength, even as short-t
 Sustaining and accelerating this growth will require continued focus on retaining high-value customer segments and optimizing campaign spend toward the channels and audiences that generate the strongest returns.
 
    
-
+![image alt](https://github.com/.../executive%20summary.png)
 
 
 
