@@ -114,7 +114,6 @@ Recommended actions:
     • Monitor satisfaction scores across segments as a leading indicator of churn risk, not just a lagging satisfaction metric
 
 
-
 5. Recommendations
 
 The following priority actions are recommended based on the analysis findings:
