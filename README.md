@@ -30,6 +30,7 @@ The analysis is built on a star schema comprising one fact table and three dimen
     • dim_productsdim_products
     • 500 products | 20 columns
     • Category, subcategory, brand, pricing, margins, stock levels, ratings, and supplier details
+    ![image](https://user-images.githubusercontent.com/xxxxxx/xxxxxx.png)
 
 
 
@@ -39,6 +40,9 @@ Q4 2024 closed at $3,810,404, reflecting a 1% year-on-year growth over Q4 2023�
 More broadly, performance across the three years shows steady overall growth, indicating a stable and resilient revenue trajectory rather than volatile swings. This consistency
 suggests the business has maintained underlying demand strength, even as short-term fluctuations occurred within specific quarters.
 Sustaining and accelerating this growth will require continued focus on retaining high-value customer segments and optimizing campaign spend toward the channels and audiences that generate the strongest returns.
+
+    ![image](https://user-images.githubusercontent.com/xxxxxx/xxxxxx.png)
+
 
 
 
@@ -120,6 +124,9 @@ Recommended actions:
     • Conduct targeted feedback surveys and behavioural analysis on the At Risk segment to identify specific disengagement triggers
     • Implement personalised retention strategies that address relevance and value rather than defaulting to discounts
     • Monitor satisfaction scores across segments as a leading indicator of churn risk, not just a lagging satisfaction metric
+
+        ![image](https://user-images.githubusercontent.com/xxxxxx/xxxxxx.png)
+
 
 
 5. Recommendations
