@@ -54,6 +54,7 @@ Protecting and nurturing this segment through exclusive experiences, early acces
 
 Social Media was the leading acquisition channel across all customer segments, generating the highest revenue overall. However, it also accounts for the largest share of At Risk customers, suggesting that while the channel attracts volume, it may not consistently attract high-intent buyers.
 Recommended actions:
+    
     • Review and refresh content strategy with a focus on purchase intent and clearer calls to action
     • Tighten keyword targeting and audience segmentation on paid social placements
     • Ensure ad creative and landing page messaging are fully aligned, same offer, same tone, consistent experience
@@ -63,6 +64,7 @@ Recommended actions:
 
 A total of 8 campaign types were executed across the analysis period. Six campaigns delivered strong performance metrics. Two campaigns, Influencer and Retargeting, recorded comparatively lower numbers but should not be discontinued.
 Recommended actions:
+    
     • Retain both underperforming campaign types, but invest in optimization before the next cycle
     • For Influencer campaigns: enforce content quality standards, establish clearer briefs, and prioritize micro-influencers with highly engaged niche audiences
     • For Retargeting: shift from broad promotions to segmented messaging with specific value propositions tailored to where the customer dropped off
@@ -70,6 +72,7 @@ Recommended actions:
 4.4  Campaign Objectives
 
 The business currently operates across 8 distinct campaign objectives, which creates tracking complexity and makes it difficult to measure strategic progress coherently. Consolidating these into three broader objective categories is recommended:
+    
     • Revenue Objectives  Revenue Objectives  
     • Upsell/Cross-sell, Seasonal Promotion, Product Launch
     • Growth Objectives  Growth Objectives  
@@ -94,6 +97,7 @@ Rather than eliminating the cash option, which could alienate a segment of the c
 
 The Mobile App is the top purchase channel across all customer segments, reflecting the mobile-first behaviour of the customer base. Website and WhatsApp Shop follow as secondary channels.
 Recommended actions:
+    
     • Use brand awareness and retargeting campaigns specifically to drive Mobile App downloads and repeat usage
     • Leverage the Website as the primary channel for order tracking and account management to reduce support load
     • Gradually integrate WhatsApp into both the app and website as a customer support and engagement layer. It is a trusted, low-friction communication channel in the target markets
@@ -102,6 +106,7 @@ Recommended actions:
 
 A significant finding across all customer segments is that customers do not rely heavily on discounts to make purchasing decisions. Strong purchasing behaviour is observed at zero or low discount levels across all categories, which is a healthy signal for margin sustainability.
 Recommended actions:
+    
     • Limit or eliminate discount strategies for Champions, Loyal Customers, and Potential Loyalists; they do not need the incentive and discounting erodes margin unnecessarily
     • Reserve discounts as a strategic lever for Acquisition, Reactivation, and Retention, specifically targeting At Risk, Hibernating, and Lost segments
     • Introduce value-based incentives (loyalty points, exclusive access) for high-value segments instead of price reductions
@@ -111,6 +116,7 @@ Recommended actions:
 Overall satisfaction is high across all customer segments, with strong Promoter scores observed in upper-tier segments. This is an encouraging signal and suggests the product and service experience is broadly meeting customer expectations.
 The notable exception is the At Risk segment, which shows lower order volumes and signs of disengagement. Critically, this pattern does not appear to be driven primarily by dissatisfaction; satisfaction scores remain relatively stable even in this group. The likely drivers are product relevance gaps, pricing perception, and declining engagement rather than a poor experience.
 Recommended actions:
+    
     • Conduct targeted feedback surveys and behavioural analysis on the At Risk segment to identify specific disengagement triggers
     • Implement personalised retention strategies that address relevance and value rather than defaulting to discounts
     • Monitor satisfaction scores across segments as a leading indicator of churn risk, not just a lagging satisfaction metric
@@ -121,6 +127,7 @@ Recommended actions:
 The following priority actions are recommended based on the analysis findings:
 
 Protect & Grow High-Value Segments
+    
     • Establish a Champions retention programme with personalised outreach, early product access, and loyalty rewards that do not rely on discounts
     • Identify Potential Loyalists showing upward RFM score trends and accelerate their progression through targeted frequency-driving campaigns
 Address Underperforming Areas
@@ -128,14 +135,17 @@ Address Underperforming Areas
     • Optimise Influencer and Retargeting campaigns before the next campaign cycle with tighter briefs, segmented audiences, and value-led messaging
 
 Streamline Campaign Strategy
+    
     • Consolidate 8 campaign objectives into 3 grouped categories (Revenue, Growth, Support) to improve tracking clarity and strategic alignment
     • Review Social Media channel strategy to reduce At Risk customer acquisition and improve lead quality through intent-based targeting
 
 Drive Digital Adoption & Channel Efficiency
+    
     • Incentivise migration from Cash on Delivery to digital payment methods through trust-building messaging and small first-time digital payment rewards
     • Prioritise Mobile App as the primary engagement channel and use retargeting campaigns to drive downloads and repeat sessions
     • Integrate WhatsApp as a customer support and engagement layer within the app and website
 
 Revenue Growth & Margin Protection
+    
     • Reserve discounts exclusively for reactivation and acquisition of lower-tier segments — protect margin on Champions and Loyal Customers
     • Leverage Food & Beverage’s high AOV for upsell campaigns targeting mid-tier segments to lift average transaction value
