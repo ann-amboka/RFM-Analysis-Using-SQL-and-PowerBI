@@ -101,6 +101,7 @@ The Baby & Kids category recorded the lowest performance across segments, but th
 
 Customers show a clear preference for digital payment methods and card options, which consistently record the highest transaction volumes. Cash on Delivery ranks last across all segments.
 Rather than eliminating the cash option, which could alienate a segment of the customer base, the opportunity is to gradually build trust and incentivise migration toward digital payment methods. Digital transactions reduce friction, lower operational costs, and improve data capture for future personalisation.
+![image alt](https://github.com/ann-amboka/RFM-Analysis-Using-SQL-and-PowerBI/blob/f70f7aac0e70e0d468ead6d5fca9d5f80a23889a/payment%20method%20chart.png)
 
 4.7  Purchase Channel by Segment
 
