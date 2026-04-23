@@ -41,7 +41,7 @@ More broadly, performance across the three years shows steady overall growth, in
 suggests the business has maintained underlying demand strength, even as short-term fluctuations occurred within specific quarters.
 Sustaining and accelerating this growth will require continued focus on retaining high-value customer segments and optimizing campaign spend toward the channels and audiences that generate the strongest returns.
 
-    ![image alt](https://github.com/ann-amboka/RFM-Analysis-Using-SQL-and-PowerBI/blob/2af3e988b868e37ebbc018dae20daf183e86d4aa/executive%20summary.png))
+   
 
 
 
