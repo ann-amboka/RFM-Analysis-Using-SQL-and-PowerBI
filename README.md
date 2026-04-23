@@ -53,7 +53,7 @@ Sustaining and accelerating this growth will require continued focus on retainin
 The Champions segment demonstrates the highest frequency and monetary value across all customer groups, confirming their status as the primary revenue engine of the business. Champions transact more often and spend more per transaction, making them disproportionately important to overall performance.
 Protecting and nurturing this segment through exclusive experiences, early access, and personalized engagement should be a standing business priority.
 
-![image alt]()
+![image alt](https://github.com/ann-amboka/RFM-Analysis-Using-SQL-and-PowerBI/blob/4473fbd146a1bc6f18614913f3db42d53529c75c/Revenue%20Analysis.png)
 
 4.2  Acquisition Channel Analysis
 
